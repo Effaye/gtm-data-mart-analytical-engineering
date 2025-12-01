@@ -1,6 +1,3 @@
-# Data files
-/data/
-
 # Jupyter notebooks checkpoints
 notebooks/.ipynb_checkpoints/
 
