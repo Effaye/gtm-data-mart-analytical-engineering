@@ -1,0 +1,15 @@
+# Data files
+/data/
+
+# Jupyter notebooks checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VS Code
+.vscode/

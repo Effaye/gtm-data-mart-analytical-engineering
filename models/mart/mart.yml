@@ -1,0 +1,34 @@
+version: 1
+
+models:
+  - name: mrt_channel_funnel
+    description: Aggregated channel funnel metrics for spend, web analytics, and opportunities.
+    sources:
+      - dim_dates
+      - dim_channels
+      - stg_web_analytics
+      - stg_ad_spend
+      - stg_salesforce_opportunities
+    columns:
+      - name: date_day
+        description: Calendar date for aggregation
+      - name: channel
+        description: Marketing channel name
+      - name: utm_source
+        description: UTM source for channel attribution
+      - name: total_spend_usd
+        description: Total ad spend in USD for the channel and date
+      - name: total_clicks
+        description: Total ad clicks for the channel and date
+      - name: total_impressions
+        description: Total ad impressions for the channel and date
+      - name: sessions
+        description: Number of web sessions for the channel and date
+      - name: converted_sessions
+        description: Number of converted web sessions for the channel and date
+      - name: total_opportunities
+        description: Number of sales opportunities for the channel and date
+      - name: closed_won_opportunities
+        description: Number of closed-won opportunities for the channel and date
+      - name: total_revenue_usd
+        description: Total revenue from closed-won opportunities for the channel and date

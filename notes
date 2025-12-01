@@ -1,0 +1,108 @@
+1. This analytic mart is to create a high-level view of:
+- sales channel efficiency overview (CAC, ROI etc), to better plan the channel budget
+- areas for improvement, including:
+  - for account managers
+  - for marketing target strategies (ideal customer profile)
+
+  > how to convert the with least money
+  > what accounts need to be targeted
+  > how to find the ideal customers
+  > what accounts need to be prioritized
+
+  To prioritize, I want them to be able to see:
+  - market channel overview: traffic, conversion, 
+  - few action points: how to allocate budget, what channels should be adjusted, whether we're finding the ideal customers and what account/opportunities should be prioritized.
+
+  MA7 / MA30
+  channel (campaign): impression > click > site visit >  site conversion > opportuntiy > proposal > close won
+                                 cr1     cr2          cr3                 cr4         cr5           cr6
+                            cr1: 
+                            ad click / impression
+
+                            cr2:
+                            site session / ad click
+
+                            cr3:
+                            site converted session / site session
+
+                            cr4:
+                            opportunities / site converted session
+                            opportunities account / converted user
+                            new account / site converted session
+
+                            cr5 & 6:
+                            sellable opportunities / opportunities
+                            closed won / sellable opportunities
+                            closed won / all opportunities
+
+
+                            
+
+  >> repeated accounts?
+  
+  daily_channel_performance_summary:
+
+  channel, session
+
+  channel
+    linkedin
+    google ad
+    facebook 
+
+
+2. Mart Design
+
+dim_layers:
+dim_accounts (dim_salesforce_acounts)
+dim_channels (dim_web_channels):
+ - channel
+ - pricing model
+ - channel benchmark stats
+
+fct_campaigns
+fct_opportunities
+
+report_layers:
+
+1. fct_report_channel_funnel
+
+channel, report_date, ma7_date_start, ma7_date_end, daily_impression, daily_ad_click, daily_site_session, daily_converted_session, 
+ma7_daily_impression, ma7_daily_ad_click, ma7_daily_site_session, ma7_daily_converted_session, ma7_daily_opportunities, ma7_daily_new_accounts, ma7_daily_sellable opportunities, ma7_daily_closed_won_opportunities
+
+
+daily_opportunity_score_snapshot
+
+
+, etc. if the channel is getting the ideal customer
+
+to quantify the above questions, 
+
+
+Head of Sales Op and Head of Growth:
+- Sales efficiency;
+- Areas to grow
+
+Define the stages:
+- awareness (ad spend efficiency)
+- consideration (conversions)
+
+To see how well your marketing is doing, you need to check a few things:
+
+Sales: Are you making money from your marketing?
+
+Getting Leads: Is your marketing getting people interested?
+
+Keeping Customers: Are customers sticking around?
+
+Nurturing Leads: Are you taking care of potential customers?
+
+Brand Awareness: Is your brand getting known?
+
+Engagement: Are people engaging with your marketing?
+
+To see if your marketing is profitable, use this formula: (Money you make - Money spent on marketing) / Money spent on marketing.
+
+This shows if you're making more money than you're spending. Connecting marketing to revenue is key to understanding its impact on your bottom line in our data-driven marketing world.
+
+
+Ideal Customer Profile?

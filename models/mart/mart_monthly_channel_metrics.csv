@@ -1,0 +1,337 @@
+channel,month,stage,stage_name,index,metric_name,aggregation_method,value,devided_by
+Total,2025-09-01,3,salesforce,10,total opportunities,sum,187.0,
+Total,2025-09-01,1,ads,4,cost per click,ratio,297144.64,943894.0
+Total,2025-09-01,2,site,8,site conversion rate,ratio,229.0,1506.0
+Total,2025-09-01,2,site,6,total sessions,sum,1506.0,
+Total,2025-09-01,3,salesforce,14,roas,ratio,3086293.2199999997,297144.64
+Total,2025-09-01,1,ads,3,total ad spend,sum,297144.64,
+Total,2025-09-01,2,site,9,cost per session,ratio,297144.64,1212.0
+Total,2025-09-01,3,salesforce,13,total revenue,sum,5177913.57,
+Total,2025-09-01,1,ads,5,ad click rate%,ratio,943894.0,11635415.0
+Total,2025-09-01,1,ads,2,total clicks,sum,943894.0,
+Total,2025-09-01,3,salesforce,12,close won rate,ratio,45.0,187.0
+Total,2025-09-01,1,ads,1,total impression,sum,11635415.0,
+Total,2025-09-01,3,salesforce,11,total closed won opportunities,sum,45.0,
+Total,2025-09-01,2,site,7,total form submissions,sum,229.0,
+Organic,2025-08-01,3,salesforce,10,total opportunities,sum,25.0,
+Organic,2025-08-01,1,ads,4,cost per click,ratio,0.0,0.0
+Organic,2025-08-01,2,site,8,site conversion rate,ratio,29.0,173.0
+Organic,2025-08-01,2,site,6,total sessions,sum,173.0,
+Organic,2025-08-01,3,salesforce,14,roas,ratio,,0.0
+Organic,2025-08-01,1,ads,3,total ad spend,sum,0.0,
+Organic,2025-08-01,2,site,9,cost per session,ratio,0.0,
+Organic,2025-08-01,3,salesforce,13,total revenue,sum,631690.66,
+Organic,2025-08-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Organic,2025-08-01,1,ads,2,total clicks,sum,0.0,
+Organic,2025-08-01,3,salesforce,12,close won rate,ratio,6.0,25.0
+Organic,2025-08-01,1,ads,1,total impression,sum,0.0,
+Organic,2025-08-01,3,salesforce,11,total closed won opportunities,sum,6.0,
+Organic,2025-08-01,2,site,7,total form submissions,sum,29.0,
+Google Ads,2025-07-01,3,salesforce,10,total opportunities,sum,14.0,
+Google Ads,2025-07-01,1,ads,4,cost per click,ratio,157809.01,483973.0
+Google Ads,2025-07-01,2,site,8,site conversion rate,ratio,81.0,525.0
+Google Ads,2025-07-01,2,site,6,total sessions,sum,525.0,
+Google Ads,2025-07-01,3,salesforce,14,roas,ratio,472356.5,157809.01
+Google Ads,2025-07-01,1,ads,3,total ad spend,sum,157809.01,
+Google Ads,2025-07-01,2,site,9,cost per session,ratio,157809.01,525.0
+Google Ads,2025-07-01,3,salesforce,13,total revenue,sum,472356.5,
+Google Ads,2025-07-01,1,ads,5,ad click rate%,ratio,483973.0,5336274.0
+Google Ads,2025-07-01,1,ads,2,total clicks,sum,483973.0,
+Google Ads,2025-07-01,3,salesforce,12,close won rate,ratio,3.0,14.0
+Google Ads,2025-07-01,1,ads,1,total impression,sum,5336274.0,
+Google Ads,2025-07-01,3,salesforce,11,total closed won opportunities,sum,3.0,
+Google Ads,2025-07-01,2,site,7,total form submissions,sum,81.0,
+LinkedIn,2025-07-01,3,salesforce,10,total opportunities,sum,7.0,
+LinkedIn,2025-07-01,1,ads,4,cost per click,ratio,101753.41,323074.0
+LinkedIn,2025-07-01,2,site,8,site conversion rate,ratio,40.0,307.0
+LinkedIn,2025-07-01,2,site,6,total sessions,sum,307.0,
+LinkedIn,2025-07-01,3,salesforce,14,roas,ratio,199993.22000000003,101753.41
+LinkedIn,2025-07-01,1,ads,3,total ad spend,sum,101753.41,
+LinkedIn,2025-07-01,2,site,9,cost per session,ratio,101753.41,307.0
+LinkedIn,2025-07-01,3,salesforce,13,total revenue,sum,199993.22000000003,
+LinkedIn,2025-07-01,1,ads,5,ad click rate%,ratio,323074.0,4414039.0
+LinkedIn,2025-07-01,1,ads,2,total clicks,sum,323074.0,
+LinkedIn,2025-07-01,3,salesforce,12,close won rate,ratio,2.0,7.0
+LinkedIn,2025-07-01,1,ads,1,total impression,sum,4414039.0,
+LinkedIn,2025-07-01,3,salesforce,11,total closed won opportunities,sum,2.0,
+LinkedIn,2025-07-01,2,site,7,total form submissions,sum,40.0,
+Twitter,2025-09-01,3,salesforce,10,total opportunities,sum,0.0,
+Twitter,2025-09-01,1,ads,4,cost per click,ratio,46334.79,147937.0
+Twitter,2025-09-01,2,site,8,site conversion rate,ratio,20.0,158.0
+Twitter,2025-09-01,2,site,6,total sessions,sum,158.0,
+Twitter,2025-09-01,3,salesforce,14,roas,ratio,0.0,46334.79
+Twitter,2025-09-01,1,ads,3,total ad spend,sum,46334.79,
+Twitter,2025-09-01,2,site,9,cost per session,ratio,46334.79,158.0
+Twitter,2025-09-01,3,salesforce,13,total revenue,sum,0.0,
+Twitter,2025-09-01,1,ads,5,ad click rate%,ratio,147937.0,1644374.0
+Twitter,2025-09-01,1,ads,2,total clicks,sum,147937.0,
+Twitter,2025-09-01,3,salesforce,12,close won rate,ratio,0.0,0.0
+Twitter,2025-09-01,1,ads,1,total impression,sum,1644374.0,
+Twitter,2025-09-01,3,salesforce,11,total closed won opportunities,sum,0.0,
+Twitter,2025-09-01,2,site,7,total form submissions,sum,20.0,
+Google Ads,2025-08-01,3,salesforce,10,total opportunities,sum,31.0,
+Google Ads,2025-08-01,1,ads,4,cost per click,ratio,104613.01,321721.0
+Google Ads,2025-08-01,2,site,8,site conversion rate,ratio,92.0,534.0
+Google Ads,2025-08-01,2,site,6,total sessions,sum,534.0,
+Google Ads,2025-08-01,3,salesforce,14,roas,ratio,944020.05999999994,104613.01
+Google Ads,2025-08-01,1,ads,3,total ad spend,sum,104613.01,
+Google Ads,2025-08-01,2,site,9,cost per session,ratio,104613.01,534.0
+Google Ads,2025-08-01,3,salesforce,13,total revenue,sum,944020.05999999994,
+Google Ads,2025-08-01,1,ads,5,ad click rate%,ratio,321721.0,4119049.0
+Google Ads,2025-08-01,1,ads,2,total clicks,sum,321721.0,
+Google Ads,2025-08-01,3,salesforce,12,close won rate,ratio,6.0,31.0
+Google Ads,2025-08-01,1,ads,1,total impression,sum,4119049.0,
+Google Ads,2025-08-01,3,salesforce,11,total closed won opportunities,sum,6.0,
+Google Ads,2025-08-01,2,site,7,total form submissions,sum,92.0,
+Meta,2025-08-01,3,salesforce,10,total opportunities,sum,19.0,
+Meta,2025-08-01,1,ads,4,cost per click,ratio,90694.939999999988,233219.0
+Meta,2025-08-01,2,site,8,site conversion rate,ratio,54.0,352.0
+Meta,2025-08-01,2,site,6,total sessions,sum,352.0,
+Meta,2025-08-01,3,salesforce,14,roas,ratio,421159.88,90694.939999999988
+Meta,2025-08-01,1,ads,3,total ad spend,sum,90694.939999999988,
+Meta,2025-08-01,2,site,9,cost per session,ratio,90694.939999999988,352.0
+Meta,2025-08-01,3,salesforce,13,total revenue,sum,421159.88,
+Meta,2025-08-01,1,ads,5,ad click rate%,ratio,233219.0,3035748.0
+Meta,2025-08-01,1,ads,2,total clicks,sum,233219.0,
+Meta,2025-08-01,3,salesforce,12,close won rate,ratio,3.0,19.0
+Meta,2025-08-01,1,ads,1,total impression,sum,3035748.0,
+Meta,2025-08-01,3,salesforce,11,total closed won opportunities,sum,3.0,
+Meta,2025-08-01,2,site,7,total form submissions,sum,54.0,
+Direct,2025-07-01,3,salesforce,10,total opportunities,sum,5.0,
+Direct,2025-07-01,1,ads,4,cost per click,ratio,0.0,0.0
+Direct,2025-07-01,2,site,8,site conversion rate,ratio,20.0,163.0
+Direct,2025-07-01,2,site,6,total sessions,sum,163.0,
+Direct,2025-07-01,3,salesforce,14,roas,ratio,,0.0
+Direct,2025-07-01,1,ads,3,total ad spend,sum,0.0,
+Direct,2025-07-01,2,site,9,cost per session,ratio,0.0,
+Direct,2025-07-01,3,salesforce,13,total revenue,sum,139192.5,
+Direct,2025-07-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Direct,2025-07-01,1,ads,2,total clicks,sum,0.0,
+Direct,2025-07-01,3,salesforce,12,close won rate,ratio,1.0,5.0
+Direct,2025-07-01,1,ads,1,total impression,sum,0.0,
+Direct,2025-07-01,3,salesforce,11,total closed won opportunities,sum,1.0,
+Direct,2025-07-01,2,site,7,total form submissions,sum,20.0,
+Partner,2025-08-01,3,salesforce,10,total opportunities,sum,8.0,
+Partner,2025-08-01,1,ads,4,cost per click,ratio,0.0,0.0
+Partner,2025-08-01,2,site,8,site conversion rate,ratio,0.0,0.0
+Partner,2025-08-01,2,site,6,total sessions,sum,0.0,
+Partner,2025-08-01,3,salesforce,14,roas,ratio,,0.0
+Partner,2025-08-01,1,ads,3,total ad spend,sum,0.0,
+Partner,2025-08-01,2,site,9,cost per session,ratio,0.0,
+Partner,2025-08-01,3,salesforce,13,total revenue,sum,346404.45,
+Partner,2025-08-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Partner,2025-08-01,1,ads,2,total clicks,sum,0.0,
+Partner,2025-08-01,3,salesforce,12,close won rate,ratio,3.0,8.0
+Partner,2025-08-01,1,ads,1,total impression,sum,0.0,
+Partner,2025-08-01,3,salesforce,11,total closed won opportunities,sum,3.0,
+Partner,2025-08-01,2,site,7,total form submissions,sum,0.0,
+Partner,2025-07-01,3,salesforce,10,total opportunities,sum,1.0,
+Partner,2025-07-01,1,ads,4,cost per click,ratio,0.0,0.0
+Partner,2025-07-01,2,site,8,site conversion rate,ratio,0.0,0.0
+Partner,2025-07-01,2,site,6,total sessions,sum,0.0,
+Partner,2025-07-01,3,salesforce,14,roas,ratio,,0.0
+Partner,2025-07-01,1,ads,3,total ad spend,sum,0.0,
+Partner,2025-07-01,2,site,9,cost per session,ratio,0.0,
+Partner,2025-07-01,3,salesforce,13,total revenue,sum,22836.46,
+Partner,2025-07-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Partner,2025-07-01,1,ads,2,total clicks,sum,0.0,
+Partner,2025-07-01,3,salesforce,12,close won rate,ratio,0.0,1.0
+Partner,2025-07-01,1,ads,1,total impression,sum,0.0,
+Partner,2025-07-01,3,salesforce,11,total closed won opportunities,sum,0.0,
+Partner,2025-07-01,2,site,7,total form submissions,sum,0.0,
+Meta,2025-09-01,3,salesforce,10,total opportunities,sum,30.0,
+Meta,2025-09-01,1,ads,4,cost per click,ratio,64105.12000000001,234452.0
+Meta,2025-09-01,2,site,8,site conversion rate,ratio,41.0,305.0
+Meta,2025-09-01,2,site,6,total sessions,sum,305.0,
+Meta,2025-09-01,3,salesforce,14,roas,ratio,749749.10000000009,64105.12000000001
+Meta,2025-09-01,1,ads,3,total ad spend,sum,64105.12000000001,
+Meta,2025-09-01,2,site,9,cost per session,ratio,64105.12000000001,305.0
+Meta,2025-09-01,3,salesforce,13,total revenue,sum,749749.10000000009,
+Meta,2025-09-01,1,ads,5,ad click rate%,ratio,234452.0,2837851.0
+Meta,2025-09-01,1,ads,2,total clicks,sum,234452.0,
+Meta,2025-09-01,3,salesforce,12,close won rate,ratio,5.0,30.0
+Meta,2025-09-01,1,ads,1,total impression,sum,2837851.0,
+Meta,2025-09-01,3,salesforce,11,total closed won opportunities,sum,5.0,
+Meta,2025-09-01,2,site,7,total form submissions,sum,41.0,
+LinkedIn,2025-09-01,3,salesforce,10,total opportunities,sum,35.0,
+LinkedIn,2025-09-01,1,ads,4,cost per click,ratio,79300.73,253261.0
+LinkedIn,2025-09-01,2,site,8,site conversion rate,ratio,38.0,263.0
+LinkedIn,2025-09-01,2,site,6,total sessions,sum,263.0,
+LinkedIn,2025-09-01,3,salesforce,14,roas,ratio,1088024.0,79300.73
+LinkedIn,2025-09-01,1,ads,3,total ad spend,sum,79300.73,
+LinkedIn,2025-09-01,2,site,9,cost per session,ratio,79300.73,263.0
+LinkedIn,2025-09-01,3,salesforce,13,total revenue,sum,1088024.0,
+LinkedIn,2025-09-01,1,ads,5,ad click rate%,ratio,253261.0,3342132.0
+LinkedIn,2025-09-01,1,ads,2,total clicks,sum,253261.0,
+LinkedIn,2025-09-01,3,salesforce,12,close won rate,ratio,11.0,35.0
+LinkedIn,2025-09-01,1,ads,1,total impression,sum,3342132.0,
+LinkedIn,2025-09-01,3,salesforce,11,total closed won opportunities,sum,11.0,
+LinkedIn,2025-09-01,2,site,7,total form submissions,sum,38.0,
+Organic,2025-07-01,3,salesforce,10,total opportunities,sum,7.0,
+Organic,2025-07-01,1,ads,4,cost per click,ratio,0.0,0.0
+Organic,2025-07-01,2,site,8,site conversion rate,ratio,24.0,176.0
+Organic,2025-07-01,2,site,6,total sessions,sum,176.0,
+Organic,2025-07-01,3,salesforce,14,roas,ratio,,0.0
+Organic,2025-07-01,1,ads,3,total ad spend,sum,0.0,
+Organic,2025-07-01,2,site,9,cost per session,ratio,0.0,
+Organic,2025-07-01,3,salesforce,13,total revenue,sum,192146.37,
+Organic,2025-07-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Organic,2025-07-01,1,ads,2,total clicks,sum,0.0,
+Organic,2025-07-01,3,salesforce,12,close won rate,ratio,1.0,7.0
+Organic,2025-07-01,1,ads,1,total impression,sum,0.0,
+Organic,2025-07-01,3,salesforce,11,total closed won opportunities,sum,1.0,
+Organic,2025-07-01,2,site,7,total form submissions,sum,24.0,
+Direct,2025-08-01,3,salesforce,10,total opportunities,sum,21.0,
+Direct,2025-08-01,1,ads,4,cost per click,ratio,0.0,0.0
+Direct,2025-08-01,2,site,8,site conversion rate,ratio,26.0,153.0
+Direct,2025-08-01,2,site,6,total sessions,sum,153.0,
+Direct,2025-08-01,3,salesforce,14,roas,ratio,,0.0
+Direct,2025-08-01,1,ads,3,total ad spend,sum,0.0,
+Direct,2025-08-01,2,site,9,cost per session,ratio,0.0,
+Direct,2025-08-01,3,salesforce,13,total revenue,sum,742717.05999999994,
+Direct,2025-08-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Direct,2025-08-01,1,ads,2,total clicks,sum,0.0,
+Direct,2025-08-01,3,salesforce,12,close won rate,ratio,6.0,21.0
+Direct,2025-08-01,1,ads,1,total impression,sum,0.0,
+Direct,2025-08-01,3,salesforce,11,total closed won opportunities,sum,6.0,
+Direct,2025-08-01,2,site,7,total form submissions,sum,26.0,
+Total,2025-07-01,3,salesforce,10,total opportunities,sum,38.0,
+Total,2025-07-01,1,ads,4,cost per click,ratio,394890.01999999996,1183704.0
+Total,2025-07-01,2,site,8,site conversion rate,ratio,237.0,1689.0
+Total,2025-07-01,2,site,6,total sessions,sum,1689.0,
+Total,2025-07-01,3,salesforce,14,roas,ratio,773676.76000000013,394890.01999999996
+Total,2025-07-01,1,ads,3,total ad spend,sum,394890.01999999996,
+Total,2025-07-01,2,site,9,cost per session,ratio,394890.01999999996,1350.0
+Total,2025-07-01,3,salesforce,13,total revenue,sum,1127852.0899999999,
+Total,2025-07-01,1,ads,5,ad click rate%,ratio,1183704.0,14512852.0
+Total,2025-07-01,1,ads,2,total clicks,sum,1183704.0,
+Total,2025-07-01,3,salesforce,12,close won rate,ratio,7.0,38.0
+Total,2025-07-01,1,ads,1,total impression,sum,14512852.0,
+Total,2025-07-01,3,salesforce,11,total closed won opportunities,sum,7.0,
+Total,2025-07-01,2,site,7,total form submissions,sum,237.0,
+LinkedIn,2025-08-01,3,salesforce,10,total opportunities,sum,21.0,
+LinkedIn,2025-08-01,1,ads,4,cost per click,ratio,69605.659999999989,201487.0
+LinkedIn,2025-08-01,2,site,8,site conversion rate,ratio,52.0,372.0
+LinkedIn,2025-08-01,2,site,6,total sessions,sum,372.0,
+LinkedIn,2025-08-01,3,salesforce,14,roas,ratio,424942.33,69605.659999999989
+LinkedIn,2025-08-01,1,ads,3,total ad spend,sum,69605.659999999989,
+LinkedIn,2025-08-01,2,site,9,cost per session,ratio,69605.659999999989,372.0
+LinkedIn,2025-08-01,3,salesforce,13,total revenue,sum,424942.33,
+LinkedIn,2025-08-01,1,ads,5,ad click rate%,ratio,201487.0,2542215.0
+LinkedIn,2025-08-01,1,ads,2,total clicks,sum,201487.0,
+LinkedIn,2025-08-01,3,salesforce,12,close won rate,ratio,4.0,21.0
+LinkedIn,2025-08-01,1,ads,1,total impression,sum,2542215.0,
+LinkedIn,2025-08-01,3,salesforce,11,total closed won opportunities,sum,4.0,
+LinkedIn,2025-08-01,2,site,7,total form submissions,sum,52.0,
+Twitter,2025-07-01,3,salesforce,10,total opportunities,sum,0.0,
+Twitter,2025-07-01,1,ads,4,cost per click,ratio,50568.600000000006,167258.0
+Twitter,2025-07-01,2,site,8,site conversion rate,ratio,32.0,179.0
+Twitter,2025-07-01,2,site,6,total sessions,sum,179.0,
+Twitter,2025-07-01,3,salesforce,14,roas,ratio,0.0,50568.600000000006
+Twitter,2025-07-01,1,ads,3,total ad spend,sum,50568.600000000006,
+Twitter,2025-07-01,2,site,9,cost per session,ratio,50568.600000000006,179.0
+Twitter,2025-07-01,3,salesforce,13,total revenue,sum,0.0,
+Twitter,2025-07-01,1,ads,5,ad click rate%,ratio,167258.0,1963209.0
+Twitter,2025-07-01,1,ads,2,total clicks,sum,167258.0,
+Twitter,2025-07-01,3,salesforce,12,close won rate,ratio,0.0,0.0
+Twitter,2025-07-01,1,ads,1,total impression,sum,1963209.0,
+Twitter,2025-07-01,3,salesforce,11,total closed won opportunities,sum,0.0,
+Twitter,2025-07-01,2,site,7,total form submissions,sum,32.0,
+Twitter,2025-08-01,3,salesforce,10,total opportunities,sum,0.0,
+Twitter,2025-08-01,1,ads,4,cost per click,ratio,29573.109999999997,82201.0
+Twitter,2025-08-01,2,site,8,site conversion rate,ratio,18.0,151.0
+Twitter,2025-08-01,2,site,6,total sessions,sum,151.0,
+Twitter,2025-08-01,3,salesforce,14,roas,ratio,0.0,29573.109999999997
+Twitter,2025-08-01,1,ads,3,total ad spend,sum,29573.109999999997,
+Twitter,2025-08-01,2,site,9,cost per session,ratio,29573.109999999997,151.0
+Twitter,2025-08-01,3,salesforce,13,total revenue,sum,0.0,
+Twitter,2025-08-01,1,ads,5,ad click rate%,ratio,82201.0,1247944.0
+Twitter,2025-08-01,1,ads,2,total clicks,sum,82201.0,
+Twitter,2025-08-01,3,salesforce,12,close won rate,ratio,0.0,0.0
+Twitter,2025-08-01,1,ads,1,total impression,sum,1247944.0,
+Twitter,2025-08-01,3,salesforce,11,total closed won opportunities,sum,0.0,
+Twitter,2025-08-01,2,site,7,total form submissions,sum,18.0,
+Meta,2025-07-01,3,salesforce,10,total opportunities,sum,4.0,
+Meta,2025-07-01,1,ads,4,cost per click,ratio,84758.999999999985,209399.0
+Meta,2025-07-01,2,site,8,site conversion rate,ratio,40.0,339.0
+Meta,2025-07-01,2,site,6,total sessions,sum,339.0,
+Meta,2025-07-01,3,salesforce,14,roas,ratio,101327.04,84758.999999999985
+Meta,2025-07-01,1,ads,3,total ad spend,sum,84758.999999999985,
+Meta,2025-07-01,2,site,9,cost per session,ratio,84758.999999999985,339.0
+Meta,2025-07-01,3,salesforce,13,total revenue,sum,101327.04,
+Meta,2025-07-01,1,ads,5,ad click rate%,ratio,209399.0,2799330.0
+Meta,2025-07-01,1,ads,2,total clicks,sum,209399.0,
+Meta,2025-07-01,3,salesforce,12,close won rate,ratio,0.0,4.0
+Meta,2025-07-01,1,ads,1,total impression,sum,2799330.0,
+Meta,2025-07-01,3,salesforce,11,total closed won opportunities,sum,0.0,
+Meta,2025-07-01,2,site,7,total form submissions,sum,40.0,
+Total,2025-08-01,3,salesforce,10,total opportunities,sum,125.0,
+Total,2025-08-01,1,ads,4,cost per click,ratio,294486.72000000009,838628.0
+Total,2025-08-01,2,site,8,site conversion rate,ratio,271.0,1735.0
+Total,2025-08-01,2,site,6,total sessions,sum,1735.0,
+Total,2025-08-01,3,salesforce,14,roas,ratio,1790122.2699999998,294486.72000000009
+Total,2025-08-01,1,ads,3,total ad spend,sum,294486.72000000009,
+Total,2025-08-01,2,site,9,cost per session,ratio,294486.72000000009,1409.0
+Total,2025-08-01,3,salesforce,13,total revenue,sum,3510934.44,
+Total,2025-08-01,1,ads,5,ad click rate%,ratio,838628.0,10944956.0
+Total,2025-08-01,1,ads,2,total clicks,sum,838628.0,
+Total,2025-08-01,3,salesforce,12,close won rate,ratio,28.0,125.0
+Total,2025-08-01,1,ads,1,total impression,sum,10944956.0,
+Total,2025-08-01,3,salesforce,11,total closed won opportunities,sum,28.0,
+Total,2025-08-01,2,site,7,total form submissions,sum,271.0,
+Direct,2025-09-01,3,salesforce,10,total opportunities,sum,26.0,
+Direct,2025-09-01,1,ads,4,cost per click,ratio,0.0,0.0
+Direct,2025-09-01,2,site,8,site conversion rate,ratio,27.0,142.0
+Direct,2025-09-01,2,site,6,total sessions,sum,142.0,
+Direct,2025-09-01,3,salesforce,14,roas,ratio,,0.0
+Direct,2025-09-01,1,ads,3,total ad spend,sum,0.0,
+Direct,2025-09-01,2,site,9,cost per session,ratio,0.0,
+Direct,2025-09-01,3,salesforce,13,total revenue,sum,620051.80999999982,
+Direct,2025-09-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Direct,2025-09-01,1,ads,2,total clicks,sum,0.0,
+Direct,2025-09-01,3,salesforce,12,close won rate,ratio,5.0,26.0
+Direct,2025-09-01,1,ads,1,total impression,sum,0.0,
+Direct,2025-09-01,3,salesforce,11,total closed won opportunities,sum,5.0,
+Direct,2025-09-01,2,site,7,total form submissions,sum,27.0,
+Partner,2025-09-01,3,salesforce,10,total opportunities,sum,10.0,
+Partner,2025-09-01,1,ads,4,cost per click,ratio,0.0,0.0
+Partner,2025-09-01,2,site,8,site conversion rate,ratio,0.0,0.0
+Partner,2025-09-01,2,site,6,total sessions,sum,0.0,
+Partner,2025-09-01,3,salesforce,14,roas,ratio,,0.0
+Partner,2025-09-01,1,ads,3,total ad spend,sum,0.0,
+Partner,2025-09-01,2,site,9,cost per session,ratio,0.0,
+Partner,2025-09-01,3,salesforce,13,total revenue,sum,328330.5,
+Partner,2025-09-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Partner,2025-09-01,1,ads,2,total clicks,sum,0.0,
+Partner,2025-09-01,3,salesforce,12,close won rate,ratio,3.0,10.0
+Partner,2025-09-01,1,ads,1,total impression,sum,0.0,
+Partner,2025-09-01,3,salesforce,11,total closed won opportunities,sum,3.0,
+Partner,2025-09-01,2,site,7,total form submissions,sum,0.0,
+Google Ads,2025-09-01,3,salesforce,10,total opportunities,sum,48.0,
+Google Ads,2025-09-01,1,ads,4,cost per click,ratio,107404.0,308244.0
+Google Ads,2025-09-01,2,site,8,site conversion rate,ratio,77.0,486.0
+Google Ads,2025-09-01,2,site,6,total sessions,sum,486.0,
+Google Ads,2025-09-01,3,salesforce,14,roas,ratio,1248520.1199999999,107404.0
+Google Ads,2025-09-01,1,ads,3,total ad spend,sum,107404.0,
+Google Ads,2025-09-01,2,site,9,cost per session,ratio,107404.0,486.0
+Google Ads,2025-09-01,3,salesforce,13,total revenue,sum,1248520.1199999999,
+Google Ads,2025-09-01,1,ads,5,ad click rate%,ratio,308244.0,3811058.0
+Google Ads,2025-09-01,1,ads,2,total clicks,sum,308244.0,
+Google Ads,2025-09-01,3,salesforce,12,close won rate,ratio,11.0,48.0
+Google Ads,2025-09-01,1,ads,1,total impression,sum,3811058.0,
+Google Ads,2025-09-01,3,salesforce,11,total closed won opportunities,sum,11.0,
+Google Ads,2025-09-01,2,site,7,total form submissions,sum,77.0,
+Organic,2025-09-01,3,salesforce,10,total opportunities,sum,38.0,
+Organic,2025-09-01,1,ads,4,cost per click,ratio,0.0,0.0
+Organic,2025-09-01,2,site,8,site conversion rate,ratio,26.0,152.0
+Organic,2025-09-01,2,site,6,total sessions,sum,152.0,
+Organic,2025-09-01,3,salesforce,14,roas,ratio,,0.0
+Organic,2025-09-01,1,ads,3,total ad spend,sum,0.0,
+Organic,2025-09-01,2,site,9,cost per session,ratio,0.0,
+Organic,2025-09-01,3,salesforce,13,total revenue,sum,1143238.04,
+Organic,2025-09-01,1,ads,5,ad click rate%,ratio,0.0,0.0
+Organic,2025-09-01,1,ads,2,total clicks,sum,0.0,
+Organic,2025-09-01,3,salesforce,12,close won rate,ratio,10.0,38.0
+Organic,2025-09-01,1,ads,1,total impression,sum,0.0,
+Organic,2025-09-01,3,salesforce,11,total closed won opportunities,sum,10.0,
+Organic,2025-09-01,2,site,7,total form submissions,sum,26.0,

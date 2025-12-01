@@ -1,0 +1,73 @@
+version: 1
+
+sources:
+  # assuming tables in data are under 'raw' schema
+  - name: raw
+    tables:
+      - name: ad_spend
+      - name: salesforce_opportunities
+      - name: web_analytics
+
+models:
+
+  - name: stg_ad_spend
+    description: Staging table for ad spend and campaign performance
+    columns:
+      - name: date
+        description: Date of spend record
+      - name: campaign_id
+        description: Unique campaign identifier
+      - name: channel
+        description: Marketing channel name
+      - name: utm_source
+        description: UTM source for campaign
+      - name: utm_campaign
+        description: UTM campaign name
+      - name: spend_usd
+        description: Amount spent in USD
+      - name: clicks
+        description: Number of ad clicks
+      - name: impressions
+        description: Number of impressions
+
+  - name: stg_salesforce_opportunities
+    description: Staging table for Salesforce opportunities
+    columns:
+      - name: opportunity_id
+        description: Unique opportunity identifier
+      - name: account_id
+        description: Linked account identifier
+      - name: created_date
+        description: Opportunity creation date
+      - name: stage
+        description: Stage of the opportunity
+      - name: amount_usd
+        description: Opportunity amount in USD
+      - name: source
+        description: Original source of opportunity
+      - name: utm_source
+        description: UTM source for opportunity
+      - name: owner_region
+        description: Region of opportunity owner
+
+  - name: stg_web_analytics_sessions
+    description: Staging table for web analytics sessions
+    columns:
+      - name: session_id
+        description: Unique session identifier
+      - name: user_id
+        description: User identifier
+      - name: session_date
+        description: Date of session
+      - name: landing_page
+        description: Landing page URL
+      - name: utm_source
+        description: UTM source for session
+      - name: utm_campaign
+        description: UTM campaign name
+      - name: pageviews
+        description: Number of pageviews in session
+      - name: conversions
+        description: Number of conversions in session
+      - name: is_converted
+        description: Whether session resulted in conversion
