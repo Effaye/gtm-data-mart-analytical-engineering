@@ -10,7 +10,7 @@ with
 dates as (select * from {{ ref('dim_dates') }}),
 channels as (select * from {{ ref('dim_channels') }}),
 web_analytics as (select * from {{ ref('stg_web_analytics') }}),
-ad_spend as (select * from {{ ref('stg_ad_spend') }}),
+ad_spend as (select * from {{ ref('stg_daily_campaign_ad_spend') }}),
 salesforce_opportunities as (select * from {{ ref('stg_salesforce_opportunities') }}),
 
 -- CTE for aggregations

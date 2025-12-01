@@ -10,7 +10,7 @@ sources:
 
 models:
 
-  - name: stg_ad_spend
+  - name: stg_daily_campaign_ad_spend
     description: Staging table for ad spend and campaign performance
     columns:
       - name: date

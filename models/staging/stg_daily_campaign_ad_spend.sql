@@ -12,13 +12,14 @@ with source as (
 )
 
 select
+    date||'_'||utm_source||'_'||utm_campaign||'_'||campaign_id as ad_spend_uid,
     date::date as date,
     campaign_id,
-    channel,
     utm_source,
     utm_campaign,
-    spend_usd::float as spend_usd,
-    clicks::int as clicks,
-    impressions::int as impressions
+    sum(spend_usd::float) as spend_usd,
+    sum(clicks::int) as clicks,
+    sum(impressions::int) as impressions
 
 from source
+group by all

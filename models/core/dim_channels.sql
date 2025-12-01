@@ -9,7 +9,7 @@ with main_source as (
     select distinct Proper(channel) as channel, 
     lower(utm_source) as utm_source,
     true as is_paid_media,
-    from {{ ref('stg_ad_spend') }}
+    from {{ ref('stg_daily_campaign_ad_spend') }}
 ),
 
 fallback_source as (
