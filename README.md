@@ -25,10 +25,10 @@ Core layer is the layer the consolidate one transaction/event data from multiple
 Mart layer is the layer that fuels reporting directly and might have special aggregations/structures to create desired visualizations in BI/reporting. The tables here are usually OBT (one big table) for a specific topic - as OBT is faster than the traiditional STAR schemas for columnar databases like Redshift/Bigquery/Snwoflake as suggested by fivetran: https://www.fivetran.com/blog/star-schema-vs-obt
 
 
-![diagram](data model diagram.png)
+![diagram](https://github.com/Effaye/gtm-data-mart-analytical-engineering/blob/main/diagram.png)
 
 ## Dashboard Example
-![snapshot](visuals+insights/tableau dashboard.png)
+![snapshot](https://github.com/Effaye/gtm-data-mart-analytical-engineering/blob/main/visuals%2Binsights/tableau%20dashboard.png)
 
 🔗 Full interactive version:  
 https://public.tableau.com/views/FunnelDash/Dashboard1
